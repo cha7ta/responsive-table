@@ -1,3 +1,3 @@
 # responsive-table
-Responsive table for device and mobile
+Responsive table for Desktop and mobile devices
 # Usage
