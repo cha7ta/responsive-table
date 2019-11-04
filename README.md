@@ -1,8 +1,6 @@
 # responsive-table
 Responsive table for Desktop and mobile devices
-# Usage
-####HTML code
-
+# HTML code
 ```html
 <!DOCTYPE html>
 <html>
