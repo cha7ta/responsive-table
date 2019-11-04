@@ -1,21 +1,8 @@
 # responsive-table
 Responsive table for Desktop and mobile devices
 ### Styles
-```html
- <style>
-        /* = body
-    ------------------------*/
-        body {
-            background: #1abc9c;
-        }
-
-        .description {
-            font-family: 'Vollkorn', serif;
-            text-align: center;
-            color: #ecf0f1;
-            text-shadow: 0 0.1em 0.2em #008c8d;
-        }
-
+```
+ <style>      
         /* = Scroll body
     ------------------------*/
         ::-webkit-scrollbar {
